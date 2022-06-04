@@ -1,3 +1,3 @@
-function name(params) {
-    console.log(params);
+function name(gender, name) {
+    console.log(`Hola ${gender}, ${name}`);
 }
